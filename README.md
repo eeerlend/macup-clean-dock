@@ -1,4 +1,4 @@
-# macup-homebrew
+# macup-clean-dock
 
 A [macup](https://github.com/eeerlend/macup) module that will clean up your dock.
 
