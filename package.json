@@ -1,0 +1,27 @@
+{
+  "name": "macup-clean-dock",
+  "version": "0.0.0",
+  "description": "macup module that cleans the dock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeerlend/macup-clean-dock.git"
+  },
+  "keywords": [
+    "macup",
+    "macup-module"
+  ],
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  },
+  "author": "Erlend Mongstad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeerlend/macup-clean-dock/issues"
+  },
+  "homepage": "https://github.com/eeerlend/macup-clean-dock#readme"
+}
