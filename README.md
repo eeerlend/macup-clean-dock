@@ -1,6 +1,6 @@
 # macup-clean-dock
 
-A [macup](https://github.com/eeerlend/macup) module that will clean up your dock.
+A [macup](https://github.com/eeerlend/macup-builder) module that will clean up your dock.
 
 ## Installation
 Run the following command to add it to your repo
