@@ -6,11 +6,11 @@ A [macup](https://github.com/eeerlend/macup-builder) module that will clean up y
 Run the following command to add it to your repo
 
 ```bash
-npm install eeerlend/macup-clean-dock --save
+npm install eeerlend/macup-clean-dock
 ```
 
 ## Configuration
-Add your own bundle identifiers to be removed from the dock...
+Add or edit dock identifiers in the main config file (e.g. my.config)
 
 ```bash
 # All default items bundled with macOS Mojave
